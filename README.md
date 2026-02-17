@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 
-<h1 align="center">I'M Arfat Kazi 👋</h1>
+<h1 align="center">Arfat Kazi</h1>
 <h3 align="center">DevOps Engineer • Cloud & Automation • Infrastructure Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻About Me 
+## 👨‍💻 About Me
 
 DevOps-focused engineer building production-ready infrastructure with strong foundations in Linux systems, containerization, CI/CD automation, and cloud-native architecture.
 
@@ -77,27 +77,27 @@ Experience with:
 
 ## 🚀 Featured Projects
 
-### 🔹 Chattingo – 3-Tier Microservice Architecture
+### 🔹 [Chattingo](https://github.com/arfatkazi/chattingo)
+3-Tier microservice architecture:
 - Spring Boot backend
 - React frontend
 - MySQL database
 - Dockerized services
-- Reverse proxy architecture
-- Designed for CI/CD integration
+- Reverse proxy integration
+- CI/CD ready design
 
-### 🔹 Two-Tier Flask Application
+### 🔹 [Two-Tier Flask Application](https://github.com/arfatkazi/two-tier-flask)
 - Python backend
 - MySQL database
 - Docker Compose networking
 - Health checks & service dependencies
 
-### 🔹 90DaysOfDevOps
-- Structured DevOps learning repository
-- Linux fundamentals
+### 🔹 [90DaysOfDevOps](https://github.com/arfatkazi/90DaysOfDevOps)
+- Structured DevOps roadmap
+- Linux systems mastery
 - Docker deep dive
 - Networking & troubleshooting labs
 
----
 
 ## 📊 GitHub Analytics
 
@@ -133,4 +133,5 @@ Experience with:
 
 ---
 
-> Engineering reliable systems. Automating everything possible. Scaling responsibly.
+> Building scalable infrastructure. Automating everything. Engineering for reliability.
+
