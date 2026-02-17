@@ -2,9 +2,9 @@
 
 <h1 align="center">Arfat Kazi</h1>
 <h3 align="center">DevOps Engineer • Cloud & Automation • Infrastructure Enthusiast</h3>
-<p align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%26+Automation;Infrastructure+Enthusiast" />
-</p>
+</h2>
 
 <p align="center">
   <a href="https://github.com/arfatkazi">
