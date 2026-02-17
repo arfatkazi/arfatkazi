@@ -131,8 +131,8 @@ Experience with:
 
 ## 📫 Connect
 
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: https://www.linkedin.com/in/arfat-kazi-2514a33a0/
+- Email: arfatkazi901@gmail.com
 
 ---
 
