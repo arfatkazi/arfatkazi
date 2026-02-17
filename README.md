@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arfat Kazi</h1>
+<h1 align="center">Hi , I'm Arfat Kazi 👋</h1>
 <h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | CI/CD</h3>
 
 <p align="center">
