@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 
-<h1 align="center">Arfat Kazi</h1>
+<h1 align="center">I'M Arfat Kazi 👋</h1>
 <h3 align="center">DevOps Engineer • Cloud & Automation • Infrastructure Enthusiast</h3>
 
 <p align="center">
@@ -101,17 +101,17 @@ Experience with:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arfatkazi&show_icons=true&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arfatkazi&theme=radical" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfatkazi&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 ---
 
